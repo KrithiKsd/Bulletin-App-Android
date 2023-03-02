@@ -36,8 +36,9 @@ Technologies & Language Used
     Picasso to load images
     Fragments for UI components
     MVVM architecture pattern
+    
 
-Screenshots
+
 ![LoginScreen](https://user-images.githubusercontent.com/105166745/222545379-37698178-2136-4223-830f-a0e64460e6b6.png)
 
 ![RegisterScreen](https://user-images.githubusercontent.com/105166745/222545399-527f1005-d918-4535-811c-7f4659bd1bee.png)
