@@ -196,6 +196,7 @@ public class AddToListFragment extends Fragment {
                 mBinding.getRoot().setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
+                        Log.d("TAG", "onClick:******************** "+listSub.size());
 
                         if (listSub.size() > 0) {
                             for (SubNews item : listSub) {
@@ -212,6 +213,7 @@ public class AddToListFragment extends Fragment {
                                 mListener.gotoNewsDetailsFragment();
                             }
                         }
+                        addToSubCollection(mItem);
                     }
                 });
             }
@@ -251,7 +253,7 @@ public class AddToListFragment extends Fragment {
                     public void onSuccess(Void unused) {
                         Log.d("TAG", "onSuccess: ");
                         mListener.gotoNewsDetailsFragment();
-                        Toast.makeText(getActivity(), "Added Successfully!", Toast.LENGTH_SHORT).show();
+                       // Toast.makeText(getActivity(), "Added Successfully!", Toast.LENGTH_SHORT).show();
 
                     }
                 }).addOnFailureListener(new OnFailureListener() {
