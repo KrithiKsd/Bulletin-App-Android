@@ -38,12 +38,13 @@ Technologies & Language Used
     MVVM architecture pattern
 
 Screenshots
-![LoginScreen](https://user-images.githubusercontent.com/105166745/222543510-2fbf1756-eb58-4142-97c7-5668c3c6d1bc.png)
+![LoginScreen](https://user-images.githubusercontent.com/105166745/222545379-37698178-2136-4223-830f-a0e64460e6b6.png)
 
-![RegisterScreen](https://user-images.githubusercontent.com/105166745/222543697-c96a9c9f-0054-4d98-94e3-2a7723f51d03.png)
+![RegisterScreen](https://user-images.githubusercontent.com/105166745/222545399-527f1005-d918-4535-811c-7f4659bd1bee.png)
 
-![homescreen](https://user-images.githubusercontent.com/105166745/222543754-df49ca78-f1a4-4490-ba60-ffb011b8d8e8.png)
+![homescreen](https://user-images.githubusercontent.com/105166745/222545487-d5eb4961-a378-4062-b797-f662ea1874e2.png)
 
-![detailsScreen](https://user-images.githubusercontent.com/105166745/222543806-e4ef7b85-3128-4b1f-82d5-b1fc93af3bc0.png)
+![detailsScreen](https://user-images.githubusercontent.com/105166745/222545511-792e18e4-6433-4307-9529-906d60cf1a4a.png)
 
-![MyListsScreen](https://user-images.githubusercontent.com/105166745/222543855-42a2a7f7-1f84-42d8-8b95-f2e1b17ab98e.png)
+![MyListsScreen](https://user-images.githubusercontent.com/105166745/222545536-4b063861-c893-4ee4-b74c-e125ce422649.png)
+
