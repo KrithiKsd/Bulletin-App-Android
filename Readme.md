@@ -37,6 +37,13 @@ Technologies & Language Used
     Fragments for UI components
     MVVM architecture pattern
 
-Contributing
+Screenshots
+![LoginScreen](https://user-images.githubusercontent.com/105166745/222543510-2fbf1756-eb58-4142-97c7-5668c3c6d1bc.png)
 
-Contributions are welcome! If you have any suggestions or find any issues, please create a GitHub issue or submit a pull request.
+![RegisterScreen](https://user-images.githubusercontent.com/105166745/222543697-c96a9c9f-0054-4d98-94e3-2a7723f51d03.png)
+
+![homescreen](https://user-images.githubusercontent.com/105166745/222543754-df49ca78-f1a4-4490-ba60-ffb011b8d8e8.png)
+
+![detailsScreen](https://user-images.githubusercontent.com/105166745/222543806-e4ef7b85-3128-4b1f-82d5-b1fc93af3bc0.png)
+
+![MyListsScreen](https://user-images.githubusercontent.com/105166745/222543855-42a2a7f7-1f84-42d8-8b95-f2e1b17ab98e.png)
